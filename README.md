@@ -7,3 +7,6 @@ Lembrete
 git add .
 git commit -m ""
 git push origin main
+git fetch origin
+git status 
+git pull
