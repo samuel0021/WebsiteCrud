@@ -4,9 +4,9 @@ Vai ser um site com crud
 
 Lembrete
 
-git add .
-git commit -m ""
-git push origin main
-git fetch origin
-git status 
-git pull
+*`git add .`* <br>
+*`git commit -m ""`* <br>
+*`git push origin main`* <br>
+*`git fetch origin`* <br>
+*`git status`* <br>
+*`git pull`* <br>
